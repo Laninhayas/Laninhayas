@@ -1,4 +1,4 @@
-👾 Hello, I'm Lana Yasmin and I'm currently studying Computer Science at UFJ. 
+👾 Hello, I'm Lana Yasmin and I'm currently studying Computer Science. 
 ⚡ I am interested in the area of ​​data science and artificial intelligence.
 🧩 I'm currently learning Python and C.
 🛸 Try to collaborate in scientific laboratories.
